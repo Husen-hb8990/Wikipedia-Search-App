@@ -1,3 +1,4 @@
+//script for auto complete
 $("#searchTerm").autocomplete({
     source: function(request, response) {
 
